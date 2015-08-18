@@ -1,0 +1,5 @@
+ | Custom stop words for ccmapper
+
+folk           | Humord-kvalifikator
+språk          | Humord-kvalifikator
+form           | Humord-kvalifikator
